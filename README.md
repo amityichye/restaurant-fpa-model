@@ -73,6 +73,8 @@ Excel (SUMIFS, COUNTIFS, EOMONTH, עיצוב מותנה) · דוח רווח וה
 
 ---
 
-**עמית יחיא** · תואר ראשון בניהול מערכות מידע · MBA · [LinkedIn](https://www.linkedin.com/in/amit-yichye)
+**עמית יחיא** · תואר ראשון בניהול מערכות מידע · MBA · www.linkedin.com/in/amit-yichye
+
+
 
 </div>
