@@ -86,6 +86,6 @@ Excel (SUMIFS, SUMPRODUCT, COUNTIFS, EOMONTH, עיצוב מותנה) · דוח �
 
 ---
 
-**עמית יחיא** · מנהלת מסעדה · MBA · תואר ראשון במנהל עסקים ומערכות מידע · [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE)
-
+**עמית יחיא** · מנהלת מסעדה · MBA · תואר ראשון במנהל עסקים ומערכות מידע · [[LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE)
+](https://www.linkedin.com/in/amit-yichye/)
 </div>
